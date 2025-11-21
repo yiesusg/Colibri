@@ -1,2 +1,2 @@
 # Colibri
-social med
+Social med.
